@@ -1,3 +1,10 @@
+# Description:
+
+A Google Clone (DevEngine) made with HTML, CSS, ReactJS (JS, JSX, Context API, React Hooks), Google Custom Search API and Firebase Hosting
+
+[Live Project - DevEngine](https://clone-ba450.web.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
